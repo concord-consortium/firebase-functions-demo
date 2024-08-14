@@ -1,4 +1,11 @@
 {
+  "firestore": [
+    {
+      "database": "(default)",
+      "rules": "firestore.default.rules",
+      "indexes": "firestore.default.indexes.json"
+    }
+  ],
   "functions": [
     {
       "source": "functions",
